@@ -15,5 +15,15 @@
   "devDependencies": {
     "chai": "~1.6.0",
     "mocha": "~1.9.0"
+  },
+  "jshintConfig":{
+    "curly": true,
+    "quotmark": "single",
+    "unused": true,
+    "undef": true,
+    "asi": true,
+    "node": true,
+    "strict": false,
+    "esnext": true
   }
 }

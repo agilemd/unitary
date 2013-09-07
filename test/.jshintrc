@@ -1,0 +1,15 @@
+{
+  "globals": {
+    "it": false,
+    "describe": false,
+    "xit": false
+  },
+  "curly": true,
+  "quotmark": "single",
+  "unused": true,
+  "undef": true,
+  "asi": true,
+  "node": true,
+  "strict": false,
+  "esnext": true
+}
